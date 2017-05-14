@@ -1,4 +1,4 @@
-src =	ppipe.c
+srcs =	ppipe.c
 objs =	ppipe.o
 opts =	-g -c
 all :	ppipe
