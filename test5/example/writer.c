@@ -1,5 +1,5 @@
 #include "ipc.h"
-
+#include<unistd.h>
 int main(int argc,char *argv[]){
 	int i,j=0;
 	int rate;
